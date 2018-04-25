@@ -23,7 +23,9 @@ components vtex io
 ### 06. Vtex Render
   https://gist.github.com/firstdoit/e3369aec928ac952c872960ab6a7f1a5
   
-### 07.
+### 07. Aplicativos de exemplos do React
+  https://github.com/vtex-apps
+  
 ### 08.
 ### 09.
 ### 10.
