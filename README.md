@@ -10,6 +10,9 @@ components vtex io
 ### 03. Renderizar um component no template usando a Arquitetura atual
   <!-- subtemplate header -->
   <vtex:renderPlaceHolder id="omnilogic-products" myVtexPath="/legacy-extensions/omnilogic/search" extensionPoint="omnilogic-search/products"/>
+  
+  ###### Opção 2
+  https://github.com/vtex/render-extension-loader
 
 ### 04. Biblioteca utilizada para o front
   https://material-ui-next.com/
