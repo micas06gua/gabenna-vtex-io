@@ -19,7 +19,10 @@ components vtex io
   
 ### 05. Debug com requiza de detalhes
   vtex link --verbose
-### 06.
+
+### 06. Vtex Render
+  https://gist.github.com/firstdoit/e3369aec928ac952c872960ab6a7f1a5
+  
 ### 07.
 ### 08.
 ### 09.
