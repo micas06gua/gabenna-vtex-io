@@ -29,7 +29,9 @@ components vtex io
 ### 08. Atualizações recentes do Vtex IO
   http://help.vtex.com/en/tutorial/vtex-io-2018-3-release-notes-and-migration-guide
   
-### 09.
+### 09. Acessando a App
+  http://help.vtex.com/en/tutorial/accessing-the-app
+  
 ### 10.
 ### 11.
 ### 12.
