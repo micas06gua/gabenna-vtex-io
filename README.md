@@ -26,7 +26,9 @@ components vtex io
 ### 07. Aplicativos de exemplos do React
   https://github.com/vtex-apps
   
-### 08.
+### 08. Atualizações recentes do Vtex IO
+  http://help.vtex.com/en/tutorial/vtex-io-2018-3-release-notes-and-migration-guide
+  
 ### 09.
 ### 10.
 ### 11.
