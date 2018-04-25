@@ -14,8 +14,8 @@ components vtex io
 ### 04. Biblioteca utilizada para o front
   https://material-ui-next.com/
   
-  
-### 05.
+### 05. Debug com requiza de detalhes
+  vtex link --verbose
 ### 06.
 ### 07.
 ### 08.
